@@ -1,6 +1,10 @@
-### Hi there 👋
+自分で選んだこの名前を目で見って、口にして、そして気づいたんだ。私、「＊＊＊＊」としてのこの生活はここで終わり、後戻りできない。今までの日々、もう二度と戻れない。
+
 
 <!--
+### Hi there 👋
+
+
 **asakayuuki/asakayuuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
