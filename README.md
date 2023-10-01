@@ -1,4 +1,4 @@
-......and may beg for mercy.
+おれ、どこが取り柄？
 
 
 <!--
