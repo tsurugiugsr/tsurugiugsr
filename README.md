@@ -1,7 +1,5 @@
 おれ、どこが取り柄？
 
-<div style="position: relative; height: 0; padding: 30px 0  130px; overflow:hidden;"><iframe src="https://router.fm/player_src?album_id=11082&type=1&color=1" frameborder="0" style="position:absolute; top:0; left:0; border:0; width:100%; height:100%;"></iframe></div>
-
 
 <!--
 ### Hi there 👋
